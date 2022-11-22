@@ -39,7 +39,6 @@
   <p align="center">
     <br />
      <a href="https://github.com/kagocchi28/ANN-code-for-NEDS-syncope-2022">
-    <img src="images/Watershed.jpg" align="right"  width="500" height="400"/>
      </a>
     <a href="https://github.com/kagocchi28/ANN-code-for-NEDS-syncope-2022"><strong>Explore the docs » </strong></a>
     <br />
