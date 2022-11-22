@@ -216,4 +216,4 @@ Project Link: [https://github.com/kagocchi28/ANN-code-for-NEDS-syncope-2022](htt
 [issues-url]: https://github.com/kagocchi28/ANN-code-for-NEDS-syncope-2022/issues
 [license-shield]: https://img.shields.io/github/license/github_username/repo.svg?style=flat-square
 [license-url]: https://github.com/kagocchi28/ANN-code-for-NEDS-syncope-2022/blob/master/LICENSE.txt
-[product-screenshot]: images/diag.png
+[product-screenshot]: images/diag.jpg
